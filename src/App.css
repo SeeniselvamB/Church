@@ -1,0 +1,57 @@
+/* 
+
+
+.App {
+  text-align: center;
+  background-color: #f0f8ff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-logo {
+  height: 250px;
+  width: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.App-header {
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin: 20px 0 10px;
+  color: #333;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #555;
+} */
+
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+/* Consistent spacing and box sizing */
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+}
+html {
+  scroll-behavior: smooth;
+}

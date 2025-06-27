@@ -1,0 +1,31 @@
+.timing-section {
+  padding: 60px 20px;
+  background-color: #ffffff;
+}
+
+.timing-container {
+  max-width: 800px;
+  margin: auto;
+  background-color: #f0f0f0;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.timing-container h2 {
+  font-size: 2rem;
+  color: #003366;
+  margin-bottom: 20px;
+}
+
+.timing-container ul {
+  list-style: none;
+  padding: 0;
+  font-size: 1.1rem;
+  color: #444;
+}
+
+.timing-container li {
+  margin: 10px 0;
+}
