@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Church/static/css/main.427bc1b2.css",
+    "main.js": "/Church/static/js/main.246b8635.js",
+    "static/js/453.7930c690.chunk.js": "/Church/static/js/453.7930c690.chunk.js",
+    "static/media/Church.png": "/Church/static/media/Church.9c95c194827a150eab8b.png",
+    "static/media/church1.png": "/Church/static/media/church1.a097f73c89fac2f2db6d.png",
+    "static/media/img1.jpg": "/Church/static/media/img1.8d27f8fac1c31951acd6.jpg",
+    "static/media/Church6.jpg": "/Church/static/media/Church6.9cfe72b17d40b4cc6160.jpg",
+    "static/media/Church3.jpg": "/Church/static/media/Church3.858bf749188492ebdf59.jpg",
+    "static/media/Church5.jpg": "/Church/static/media/Church5.f6018963de86f886f6d9.jpg",
+    "static/media/Church4.jpg": "/Church/static/media/Church4.85659ce4f64791242fe1.jpg",
+    "static/media/Church2.jpg": "/Church/static/media/Church2.7aced466da06795ebff1.jpg",
+    "index.html": "/Church/index.html",
+    "main.427bc1b2.css.map": "/Church/static/css/main.427bc1b2.css.map",
+    "main.246b8635.js.map": "/Church/static/js/main.246b8635.js.map",
+    "453.7930c690.chunk.js.map": "/Church/static/js/453.7930c690.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.427bc1b2.css",
+    "static/js/main.246b8635.js"
+  ]
+}
