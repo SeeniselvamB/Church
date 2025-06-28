@@ -1,39 +1,6 @@
-.home-section 
-{
-  height: 90vh;
-  background-image: url('./church1.jpg.png'); /* your church image as background */
-  background-size: cover;
-  background-position: center;
-  position: relative;
-}
-
-.home-overlay {
-  height: 75%;
-  width: 100%;
-  background-color: rgba(0, 0, 0, 0.5); /* dark overlay for better text visibility */
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.home-title {
-  color: #ffffff;
-  font-size: 3rem;
-  font-weight: bold;
-  text-align: center;
-  padding: 20px;
-  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.8);
-}
-
-@media (max-width: 768px) {
-  .home-title {
-    font-size: 2rem;
-    padding: 10px; }
-}  */
-
-.home-section {
+  .home-section {
   height: 60vh;
-  background-image: url('./church1.jpg.png');
+  background-image: url('./church1.png');
   background-size: cover;
   background-position: center;
   position: relative;
