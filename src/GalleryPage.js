@@ -1,4 +1,5 @@
 import React from 'react';
+import { useEffect } from 'react';
 import './GalleryPage.css';
 
 import img1 from './images/Church.png';
@@ -9,11 +10,14 @@ import img5 from './images/Church5.jpg';
 import img6 from './images/Church6.jpg';
 
 function GalleryPage() {
+  useEffect(() => {
+      window.scrollTo(0, 0);
+    }, []);
   const images = [img1, img2, img3, img4, img5, img6];
 
   return (
     <div className="gallery-page">
-      <h2>All Church Images</h2>
+      <h2>Church Images</h2>
       <div className="gallery-grid">
         {images.map((src, index) => (
           <img key={index} src={src} alt={`Church ${index + 1}`} />

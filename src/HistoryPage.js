@@ -1,8 +1,12 @@
 import React from 'react';
+import { useEffect } from 'react';
 import './HistoryPage.css';
 import { Link } from 'react-router-dom';
 
 function HistoryPage() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <div className="history-page">
       <h2>History of the Church</h2>
