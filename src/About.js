@@ -3,7 +3,7 @@ import './About.css';
 import { Link } from 'react-router-dom';
 function About() {
   return (
-    <section className="about-section" id="about">
+    <section className="about-section" id="about" >
       <div className="about-container">
         <h2>About the Church</h2>
         <p>

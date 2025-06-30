@@ -3,7 +3,7 @@ import './Timing.css';
 
 function Timing() {
   return (
-    <section className="timing-section" id="timing">
+    <section className="timing-section" id="timing" >
       <div className="timing-container">
         <h2>Service Timings</h2>
 
