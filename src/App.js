@@ -25,7 +25,7 @@ function App() {
     AOS.init({ duration: 1000, once: true });
   }, []);
   return (
-    <Router>
+    <Router basename='/Church'>
       <div className="App">
         <Navbar />
         <Routes>
