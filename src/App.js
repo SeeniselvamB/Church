@@ -1,5 +1,6 @@
 import React , { useEffect } from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+// import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import Navbar from './Navbar';
@@ -24,7 +25,6 @@ function App() {
     AOS.init({ duration: 1000, once: true });
   }, []);
   return (
-    // <Router basename="/Church">
     <Router>
       <div className="App">
         <Navbar />
