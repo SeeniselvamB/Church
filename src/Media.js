@@ -1,4 +1,6 @@
 import React from 'react';
+import img1 from './images/instagram.jpg';
+import img2 from './images/youtube.png';
 import './Media.css';
 
 function Media() {
@@ -13,7 +15,7 @@ function Media() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img src="/media/instagram.png" alt="Instagram" />
+            <img src={img1} alt="Instagram" />
             Instagram
           </a>
           <a
@@ -22,7 +24,7 @@ function Media() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img src="/media/youtube.png" alt="YouTube" />
+            <img src={img2} alt="YouTube" />
             YouTube
           </a>
         </div>

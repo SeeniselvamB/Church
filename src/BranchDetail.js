@@ -6,22 +6,22 @@ import './BranchDetail.css';
 const branchData = {
   1: {
     image: '/images/branch1.jpg',
-    title: 'Branch Church 1',
+    title: 'Kalkurichi Church',
     about: 'This is the description for Branch Church 1.',
   },
   2: {
     image: '/images/branch2.jpg',
-    title: 'Branch Church 2',
+    title: 'Thoppur',
     about: 'This is the description for Branch Church 2.',
   },
   3: {
     image: '/images/branch3.jpg',
-    title: 'Branch Church 3',
+    title: 'Pudhupatti',
     about: 'This is the description for Branch Church 3.',
   },
   4: {
     image: '/images/branch4.jpg',
-    title: 'Branch Church 4',
+    title: 'Thonugal',
     about: 'This is the description for Branch Church 4.',
   },
 };

@@ -11,8 +11,8 @@ function Images() {
     <div className="image-container">
       <h2 className="gallery-title">Church Gallery</h2>
       <div className="image-preview">
-        <img src={img1} alt="Church 1" />
-        <img src={img2} alt="Church 2" />
+        <img src={img2} alt="Church 1" />
+        <img src={img1} alt="Church 2" />
       </div>
       <div className="more-link">
         <Link to="/gallery">More Images...</Link>

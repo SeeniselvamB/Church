@@ -5,10 +5,10 @@ import { Link } from 'react-router-dom';
 
 function Branch() {
   const branches = [
-    { id: 1, image: '/images/branch1.jpg', title: 'Branch Church 1' },
-    { id: 2, image: '/images/branch2.jpg', title: 'Branch Church 2' },
-    { id: 3, image: '/images/branch3.jpg', title: 'Branch Church 3' },
-    { id: 4, image: '/images/branch4.jpg', title: 'Branch Church 4' },
+    { id: 1, image: '/images/branch1.jpg', title: 'Kalkurichi' },
+    { id: 2, image: '/images/branch2.jpg', title: 'Thoppur' },
+    { id: 3, image: '/images/branch3.jpg', title: 'Pudhupatti' },
+    { id: 4, image: '/images/branch4.jpg', title: 'Thonugal' },
   ];
 
   return (
