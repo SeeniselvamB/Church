@@ -5,7 +5,7 @@ function Timing() {
   return (
     <section className="timing-section" id="timing">
       <div className="timing-container">
-        <h2> Service Timings</h2>
+        <h2>Service Timings</h2>
 
         <div className="timing-group">
           <h3>Holy Communion Worship</h3>
