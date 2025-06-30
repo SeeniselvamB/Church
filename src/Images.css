@@ -26,12 +26,15 @@
   gap: 20px;
 }
 
+
 .image-preview img {
   width: 300px;
   height: auto;
+  object-fit: cover;
   border-radius: 12px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
 }
+
 
 .more-link {
   margin-top: 20px;
