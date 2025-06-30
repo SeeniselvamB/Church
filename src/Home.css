@@ -31,8 +31,9 @@
 } 
  */
 .home-section {
-  height: 60vh;
-  background-image: url('./church1.png');
+  height: 90vh;
+  /* background-image: url('./church1.png'); */
+  background-image: url('./Church12.jpg');
   background-size: cover;
   background-position: center;
   position: relative;

@@ -2,26 +2,42 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import './BranchDetail.css';
+import img1 from './images/Church.png';
+import img2 from './images/Church2.jpg';
+import img3 from './images/Church2.jpg';
+import img4 from './images/Church2.jpg';
+import img5 from './images/Church2.jpg';
+import img6 from './images/Church2.jpg';
 
 const branchData = {
   1: {
-    image: '/images/branch1.jpg',
-    title: 'Kalkurichi Church',
+    image: img1,
+    title: 'KALKURICHI Church',
     about: 'This is the description for Branch Church 1.',
   },
   2: {
-    image: '/images/branch2.jpg',
-    title: 'Thoppur',
+    image: img2,
+    title: 'THOPPUR CHURCH',
     about: 'This is the description for Branch Church 2.',
   },
   3: {
-    image: '/images/branch3.jpg',
-    title: 'Pudhupatti',
+    image: img3,
+    title: 'PUDHUPATTI CHURCH',
     about: 'This is the description for Branch Church 3.',
   },
   4: {
-    image: '/images/branch4.jpg',
-    title: 'Thonugal',
+    image: img4,
+    title: 'THONUGAL CHURCH',
+    about: 'This is the description for Branch Church 4.',
+  },
+  5: {
+    image: img5,
+    title: 'PAMPATTI CHURCH',
+    about: 'This is the description for Branch Church 4.',
+  },
+  6: {
+    image: img6,
+    title: 'KARIALKULAM CHURCH',
     about: 'This is the description for Branch Church 4.',
   },
 };

@@ -2,13 +2,22 @@
 import React from 'react';
 import './Branch.css';
 import { Link } from 'react-router-dom';
+import img1 from './images/Church2.jpg';
+import img2 from './images/Church2.jpg';
+import img3 from './images/Church2.jpg';
+import img4 from './images/Church2.jpg';
+import img5 from './images/Church2.jpg';
+import img6 from './images/Church2.jpg';
+
 
 function Branch() {
   const branches = [
-    { id: 1, image: '/images/branch1.jpg', title: 'Kalkurichi' },
-    { id: 2, image: '/images/branch2.jpg', title: 'Thoppur' },
-    { id: 3, image: '/images/branch3.jpg', title: 'Pudhupatti' },
-    { id: 4, image: '/images/branch4.jpg', title: 'Thonugal' },
+    { id: 1, image: img1, title: 'KALKURICHI' },
+    { id: 2, image: img2, title: 'THOPPUR' },
+    { id: 3, image: img3, title: 'PUDHUPATTI' },
+    { id: 4, image: img4, title: 'THONUGAL' },
+    { id: 5, image: img5, title: 'PAMPATTI' },
+    { id: 6, image: img6, title: 'KARISALKULAM' },
   ];
 
   return (

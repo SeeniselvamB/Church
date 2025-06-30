@@ -58,8 +58,11 @@ import GalleryPage from './GalleryPage';
 import HistoryPage from './HistoryPage';
 import TamilHistory from './TamilHistory';
 import Media from './Media';
-import BranchDetail from './BranchDetail';  // ✅ Import detail page
+import BranchDetail from './BranchDetail';
+// import Father from './Father';
+// import FatherHistory from './FatherHistory';  // ✅ Import detail page
 import './App.css';
+
 
 function App() {
   return (
@@ -73,6 +76,7 @@ function App() {
               <>
                 <section id="home"><Home /></section>
                 <section id="about"><About /></section>
+                {/* <section id="father"><Father /></section> */}
                 <section id="timing"><Timing /></section>
                 <section id="gallery"><Images /></section>
                 <section id="events"><Events /></section>  {/* ✅ This is Branch list */}
@@ -85,6 +89,7 @@ function App() {
           <Route path="/history" element={<HistoryPage />} />
           <Route path="/history/tamil" element={<TamilHistory />} />
           <Route path="/branch/:id" element={<BranchDetail />} />  {/* ✅ Detail view route */}
+          {/* <Route path="/fathers/history" element={<FatherHistory />} /> */}
         </Routes>
       </div>
     </Router>
