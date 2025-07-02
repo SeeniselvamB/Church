@@ -19,7 +19,7 @@ import './App.css';
 
 function App() {
     return (
-    <Router>
+    <Router basename="Church">
       <div className="App">
         <Navbar />
         <Routes>
