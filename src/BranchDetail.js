@@ -18,7 +18,7 @@ const branchData = {
   2: {
     image: img2,
     title: 'THOPPUR CHURCH',
-    about: 'This is the description for Branch Church 2.',
+    about: 'There was a temple in the village of Thoppur, 1/2 km from Chithumoondradaippu, 40 years ago. The Lord gave us the grace to start a ministry there.Here too, prayer meetings, home visits, Sabbath services, and vacation Bible school programs are being held continuously through young brothers and sisters. There was a temple before the time of the elders. The Lord gave grace to start the ministry there.',
   },
   3: {
     image: img3,
