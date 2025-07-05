@@ -15,13 +15,16 @@ import img11 from './images/Church11.jpg';
 import img12 from './images/Church12.jpg';
 import img13 from './images/Church13.jpg';
 import img14 from './images/Church14.jpg';
+import img15 from './images/Church15.jpg';
+import img16 from './images/Church16.jpg';
+import img17 from './images/Church17.jpg';
 
 function GalleryPage() {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
 
-  const images = [img1,img7,img8,img2,img9,img10,img11,img12,img5,img13,img14,img3, img4,img6];
+  const images = [img1,img7,img8,img17,img2,img9,img10,img11,img12,img5,img13,img14,img15,img16,img3, img4,img6,];
   const [selectedImage, setSelectedImage] = useState(null);
 
   return (
