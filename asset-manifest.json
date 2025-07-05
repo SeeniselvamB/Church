@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Church/static/css/main.2177ef25.css",
-    "main.js": "/Church/static/js/main.fd7d5714.js",
+    "main.js": "/Church/static/js/main.398be091.js",
     "static/js/453.7930c690.chunk.js": "/Church/static/js/453.7930c690.chunk.js",
     "static/media/Church10.jpg": "/Church/static/media/Church10.31a89bc1e5e6b82a5d3d.jpg",
     "static/media/Church11.jpg": "/Church/static/media/Church11.01f20f2781e1cc20e96c.jpg",
@@ -13,8 +13,11 @@
     "static/media/Pudupatti.png": "/Church/static/media/Pudupatti.bf8de0757f2597e64c1a.png",
     "static/media/Church13.jpg": "/Church/static/media/Church13.9c000696657981b4711f.jpg",
     "static/media/Church14.jpg": "/Church/static/media/Church14.c077369f20c5cfbf8c06.jpg",
+    "static/media/Church15.jpg": "/Church/static/media/Church15.a8ba205ebdcaf49631b0.jpg",
     "static/media/img1.jpg": "/Church/static/media/img1.8d27f8fac1c31951acd6.jpg",
+    "static/media/Church16.jpg": "/Church/static/media/Church16.a6ae87befee2ecb50aa5.jpg",
     "static/media/Church6.jpg": "/Church/static/media/Church6.9cfe72b17d40b4cc6160.jpg",
+    "static/media/Church17.jpg": "/Church/static/media/Church17.e4d4eb219af311023ed4.jpg",
     "static/media/Church3.jpg": "/Church/static/media/Church3.858bf749188492ebdf59.jpg",
     "static/media/Church5.jpg": "/Church/static/media/Church5.f6018963de86f886f6d9.jpg",
     "static/media/Church4.jpg": "/Church/static/media/Church4.85659ce4f64791242fe1.jpg",
@@ -22,11 +25,11 @@
     "static/media/youtube.png": "/Church/static/media/youtube.5accd050b16f68b4f2f2.png",
     "index.html": "/Church/index.html",
     "main.2177ef25.css.map": "/Church/static/css/main.2177ef25.css.map",
-    "main.fd7d5714.js.map": "/Church/static/js/main.fd7d5714.js.map",
+    "main.398be091.js.map": "/Church/static/js/main.398be091.js.map",
     "453.7930c690.chunk.js.map": "/Church/static/js/453.7930c690.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2177ef25.css",
-    "static/js/main.fd7d5714.js"
+    "static/js/main.398be091.js"
   ]
 }
